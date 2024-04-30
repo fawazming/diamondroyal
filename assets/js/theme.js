@@ -19,8 +19,8 @@ var theme = {
     theme.backgroundImageMobile();
     theme.imageHoverOverlay();
     theme.rellax();
-    // theme.scrollCue();
-    // theme.swiperSlider();
+    theme.scrollCue();
+    theme.swiperSlider();
     theme.lightbox();
     theme.plyr();
     theme.progressBar();
